@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: podinfod
-        image: quay.io/rh-ee-dwaters/harness-gitops-workshop:cdb79ba5761c3b2a9ee7016db696a9a4334f3b05
+        image: quay.io/rh-ee-dwaters/harness-gitops-workshop:afbf8cc440656c42357123e99f6c4ee4da4eb4b4
         imagePullPolicy: IfNotPresent
         ports:
         - name: http
