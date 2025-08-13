@@ -5,6 +5,6 @@
     "name" : "gitopscluster",
     "namespace" : "dev"
   },
-  "asset_id" : "derekwaters-e91043d26ddbd18b2f106aea6366150aa3b95ef4",
+  "asset_id" : "derekwaters-4afec03f238909cffaee9b9f795b9dad2147ec1a",
   "aws_account" : "654321"
 }
